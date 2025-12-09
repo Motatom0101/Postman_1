@@ -32,12 +32,12 @@ Neste artigo, migramos da teoria para como iniciar a estruturação profissional
 
    **Nele veremos:**
    
-   - Pré-request Script e Post-response Script e suas funções.
-   - Criação de variáveis nestas sessões.
-   - Snippets na criação de código JavaScript para teste.
-   - Análise de alguns códigos.
-   - Breve introdução ao framework de teste interno do Postman, baseado na biblioteca de asserções Chai do JS.
-   - Criação e execução do 1º teste funcional no Postman.
+   - **Pré-request** Script e **Post-response** Script e suas funções.
+   - **Criação de variáveis** nestas sessões.
+   - **Snippets** na criação de código JavaScript para teste.
+   - **Análise de alguns códigos**.
+   - Breve **introdução ao framework de teste interno do Postman**, **baseado na** biblioteca de asserções **Chai do JS**.
+   - Criação e execução do **1º teste funcional no Postman**.
  
 
 Loading...
