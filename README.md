@@ -40,4 +40,10 @@ Neste artigo, migramos da teoria para como iniciar a estruturação profissional
    - Criação e execução do **1º teste funcional no Postman**.
  
 
+[Postman do Básico ao Avançado com Projetos — parte 4](https://medium.com/@atom.free/postman-do-b%C3%A1sico-ao-avan%C3%A7ado-com-projetos-parte-4-9830b05a5dfa?postPublishedType=initial)
+
+**Veremos:**
+
+O recurso Runner, que permite executar uma Coleção, uma Pasta ou um grupo de requisições de forma sequencial e automatizada.
+
 Loading...
