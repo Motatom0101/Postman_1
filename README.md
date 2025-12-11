@@ -54,4 +54,10 @@ O recurso Runner, que permite executar uma Coleção, uma Pasta ou um grupo de r
 
 Agora que conhecemos a interface Do Postman e as principais features, vamos fazer alguns exercícios. Neste primeiro, validaremos o status code 200 e os parâmetros ‘page’ e ‘per_page’ em um teste funcional de contrato, para validarmos os valores acordados nos parâmetros já citados. Para tanto, usaremos a API pública ‘ReqRes’, que eu penei um pouco até entender que, diferente de quando o professor executou o teste, agora precisava criar uma key para criar uma variável no ‘Headers’.
 
+[Postman do Básico ao Avançado com Projetos — Exercício 2](https://medium.com/@atom.free/postman-do-b%C3%A1sico-ao-avan%C3%A7ado-com-projetos-exerc%C3%ADcio-2-cf27f5eb5d85?postPublishedType=initial)
+
+**Veremos:**
+
+Vamos usar a API pública ReqRes e seu Swagger para desenvolver o exercício. Faremos uma busca em um conjunto de informações fictícias de 2 usuários não randômicos, a fim de validarmos se o email que virá na request é o mesmo que esperávamos e uma asserção para o status code 200.
+
 Loading...
