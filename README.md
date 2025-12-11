@@ -45,8 +45,8 @@ Neste artigo, migramos da teoria para como iniciar a estruturação profissional
 **Veremos:**
 
 O recurso Runner, que permite executar uma Coleção, uma Pasta ou um grupo de requisições de forma sequencial e automatizada.
-
-
+#
+#
 ## Exercícios📝
 [Postman do Básico ao Avançado com Projetos — Exercício 1](https://medium.com/@atom.free/postman-do-b%C3%A1sico-ao-avan%C3%A7ado-com-projetos-exerc%C3%ADcio-1-e880bb2739bc?postPublishedType=initial)
 
