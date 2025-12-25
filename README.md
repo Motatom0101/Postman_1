@@ -1,5 +1,5 @@
 # 🎯Teste em APIs com Postman📝
-[![Cypress](https://api.devicons.dev.br/icon?icons=Linux%2CPostman%2CVSCode&size=48&theme=light&perline=30)](https://devicons.dev.br/)
+[![Cypress](https://api.devicons.dev.br/icon?icons=Linux%2CPostman%2CJavaScript%2CVSCode&size=48&theme=light&perline=30)](https://devicons.dev.br/)
 #
 ### Orientação: 
 Este repositório contém a documentação dos meus estudos em **testes de APIs com Postman** e projeto.
